@@ -6,15 +6,6 @@ project 1 - A Random Quote Generator
 
 // Study guide for this project - https://drive.google.com/file/d/1s5grutGuQFwJcQP8bFwEI69Q8FCkGdDk/view?usp=sharing
 
-/*** 
-  Create the array of quote objects and name it `quotes`.
-  Add at least five quote objects to the `quotes` array.
-  Give each quote object a `quote` and `source` property.
-  Add the `citation` property to at least one object in the array.
-  Add the `year` property to at least one object in the array.
-  Use console.log() to log your array of quotes to the console.
-***/
-
 /***
   Create the `getRandomQuote` function to:
    - Create a variable to store a random number 
@@ -42,5 +33,3 @@ project 1 - A Random Quote Generator
 ***/
 
 document.getElementById('loadQuote').addEventListener('click', printQuote, false);
-
-// Remember to delete the comments that came with this file, and replace them with your own code comments.
