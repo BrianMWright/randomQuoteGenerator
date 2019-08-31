@@ -9,8 +9,19 @@ project 1 - A Random Quote Generator
 /***
   Create the `getRandomQuote` function to:
    - Create a variable to store a random number 
-   - Cse the random number to `return` a random quote object from the `quotes` array.
+   - Use the random number to `return` a random quote object from the `quotes` array.
 ***/
+let randomNumber;
+let randomQuoteString;
+
+function getRandomQuote() {
+	randomNumber = Math.floor(Math.random() * quotes.length);
+	return quotes[randomNumber];
+}
+
+function printQuote() {
+	function getRandomQuote() {}
+}
 
 /***
   Create the `printQuote` function to: 
