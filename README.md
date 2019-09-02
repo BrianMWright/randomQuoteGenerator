@@ -1,7 +1,7 @@
 # randomQuoteGenerator
- This is my first JS project submitted for peer review and grading.
+ This was my first JS project submitted for peer review and grading.
 
-Please note my goal is to achieve a rating of "Exceeds expectations" for this project.
+In addition to meeting the passing requirements, I also implemented additional 'bonus' features that earned it a rating of "Exceeds Expectation".
 
 Also note, I re-organized the project files as following:
 
